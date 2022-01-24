@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConcesionarioMilanuncios</string>
+    <string name="todo">TODO</string>
+    <string name="title_place_holder">Titulo</string>
+    <string name="price">0€</string>
+    <string name="tvInfo">----</string>
+    <string name="privacy">Política de Privacidad</string>
+    <string name="web">Nuestra página</string>
+    <string name="tiendaNombre">Auto Suecia</string>
+    <string name="Blank">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t </string>
+    <string name="miniBlank">\t\t\t</string>
+</resources>
